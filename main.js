@@ -44,7 +44,7 @@ function joinStringsAndPrint( string1 , string2 ) {
 		// console.log(newString);
 
 		// Q4
-		console.log(string1 + string2);
+		// console.log(string1 + string2);
 
 	}
 
